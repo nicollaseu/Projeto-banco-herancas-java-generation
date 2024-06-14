@@ -1,11 +1,14 @@
 package conta.model;
 import java.util.Scanner;
+import conta.model.Conta;
 import conta.model.ContaCorrente;
 import conta.model.ContaPoupanca;
 import conta.util.Cores;
 
 public class Menu {
     public static void main(String[] args) {
+
+        Scanner leia = new Scanner(System.in);
 
         int opcao;
 
@@ -58,7 +61,7 @@ public class Menu {
 
             if(opcao == 9) {
                 System.out.println("\nBanco Solidez - O seu investimento começa aqui!");
-                sobre()
+                sobre();
                 leia.close();
                 System.exit(0);
             }
