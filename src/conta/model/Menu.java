@@ -112,4 +112,5 @@ public class Menu {
         System.out.println("https://github.com/nicollaseu/Projeto-banco-herancas-java-generation");
         System.out.println("*********************************************************");
     }
+    //Projeto Finalizado
 }
