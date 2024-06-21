@@ -20,7 +20,7 @@ Este projeto é uma aplicação Java desenvolvida para gerenciar contas bancári
 6. **Finalizando Projeto e Nome do Banco Solidez**
    - O último commit finalizou o projeto, realizando ajustes finais, comentários de código e definindo o nome oficial do banco como "Banco Solidez".
 
-Este repositório contém o código-fonte completo do projeto, onde cada parte foi desenvolvida com foco na modularidade, boas práticas de programação e utilização eficiente de herança e interfaces como parte do curso da Generation Brasil..
+Este repositório contém o código-fonte completo do projeto, onde cada parte foi desenvolvida com foco na modularidade, boas práticas de programação e utilização eficiente de herança e interfaces como parte do curso da Generation Brasil.
 
 
 
